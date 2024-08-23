@@ -1,5 +1,5 @@
 # libro-vivo-hechizos
-Libro vivo de Hechizos de Huayra Linux
+Libro vivo de Hechizos de Huayra Linux VERSION PARA Huayra Liviano [CALMA]
 
 El libro vivo de hechizos de Huayra es un manual integral, que incluye desde los fundamentos filosóficos y el marco político del proyecto hasta indicaciones técnicas de cómo instalar el sistema operativo, cómo agregar aplicaciones y cómo mantenerlo actualizado. Un libro lleno de secretos, atajos, trucos, y recetas para dominar como nunca antes el sistema operativo Huayra Linux y aprovechar al máximo todas sus virtudes.
 
